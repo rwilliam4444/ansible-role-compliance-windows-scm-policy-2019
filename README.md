@@ -32,6 +32,4 @@ __UseLogonCredential_cis__ |"0"| CIS value.
    - ansible-role-compliance-windows-scm-policy-2019
 
 # Author Information:
-Richard M. Williams
-
-rmwill@us.ibm.com
+Richard M. Williams (williamsitv@yahoo.com)
